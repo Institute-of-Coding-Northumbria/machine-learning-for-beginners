@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1468 1271"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>SVM Separating Hyperplanes</title>
+<metadata>
+ <r:RDF xmlns:r="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:c="http://creativecommons.org/ns#"
+        xmlns:d="http://purl.org/dc/elements/1.1/">
+  <c:Work r:about="">
+   <d:format>image/svg+xml</d:format>
+   <d:type r:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   <d:title>SVM Separating Hyperplanes</d:title>
+   <d:date>2012-11-26</d:date>
+   <d:creator><c:Agent><d:title>Zachary Weinberg</d:title></c:Agent></d:creator>
+   <c:license r:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </c:Work>
+  <c:License r:about="http://creativecommons.org/licenses/by-sa/3.0/">
+   <c:permits r:resource="http://creativecommons.org/ns#Reproduction"/>
+   <c:permits r:resource="http://creativecommons.org/ns#Distribution"/>
+   <c:permits r:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+   <c:requires r:resource="http://creativecommons.org/ns#Notice"/>
+   <c:requires r:resource="http://creativecommons.org/ns#Attribution"/>
+   <c:requires r:resource="http://creativecommons.org/ns#ShareAlike"/>
+  </c:License>
+ </r:RDF>
+</metadata>
+<path fill="#000" stroke="none" d="M102.94,10,88.469,49.344c3.4909-2.5055,7.477-3.9995,11.531-4.5v1128.8h1323.5c-0.494,4.0412-2.0111,7.9815-4.5312,11.406l39.344-14.469-39.3-14.4c2.5093,3.496,4.0017,7.4708,4.5,11.531h-1317.5v-1122.8c4.0474,0.49182,7.9764,1.9762,11.406,4.5z"/>
+<circle id="a" cx="468.172" cy="306.08" r="31.06" fill="#000" stroke="none"/>
+<use xlink:href="#a" x="-127.78" y="128.27"/>
+<use xlink:href="#a" x="-129.22" y="-88"/>
+<use xlink:href="#a" x="-26.81" y="-164.67"/>
+<use xlink:href="#a" x="93.33" y="-127.68"/>
+<use xlink:href="#a" x="165.08" y="-36.83"/>
+<use xlink:href="#a" x="153.24" y="154.01"/>
+<use xlink:href="#a" x="-26.80" y="193.57"/>
+<circle id="b" cx="747.11" cy="993.67" r="31.06" fill="none" stroke="#000" stroke-width="5"/>
+<use xlink:href="#b" x="181.34" y="-22"/>
+<use xlink:href="#b" x="247.68" y="-270"/>
+<use xlink:href="#b" x="283.01" y="18"/>
+<use xlink:href="#b" x="386.35" y="-151"/>
+<use xlink:href="#b" x="389.69" y="-342"/>
+<use xlink:href="#b" x="503.02" y="-202"/>
+<use xlink:href="#b" x="627.36" y="-136"/>
+<path fill="none" stroke="#000" d="m747,993.67-54,0"/>
+<path fill="none" stroke="#000" d="m633.25,269.25,59.752,0"/>
+<path fill="none" stroke="#000" d="m621.41,460.08,162.6,155.33"/>
+<path fill="none" stroke="#000" d="M830,566.41,994.68,723.67"/>
+<path fill="none" stroke="#09ab15" stroke-width="4" d="M679.356,1137.4,347.047,48.502"/>
+<path fill="none" stroke="#008aff" stroke-width="4" d="M694,48.502,693.42,1137.4"/>
+<path fill="none" stroke="#f00" stroke-width="4" d="M283.3,1137.4,1324.5,48.502"/>
+<text fill="#000" font-family="sans-serif" font-size="48px" x="276.44455" y="80.910538">H<tspan font-size="65%" dy="12">1</tspan></text>
+<text fill="#000" font-family="sans-serif" font-size="48px" x="620.79797" y="80.910538">H<tspan font-size="65%" dy="12">2</tspan></text>
+<text fill="#000" font-family="sans-serif" font-size="48px" x="1198.583" y="80.910538">H<tspan font-size="65%" dy="12">3</tspan></text>
+<text fill="#000" font-family="sans-serif" font-size="64px" x="1356.6881" y="1248.8091">X<tspan font-size="65%" dy="18">1</tspan></text>
+<text fill="#000" font-family="sans-serif" font-size="64px" x="8.09375" y="91.510849">X<tspan font-size="65%" dy="18">2</tspan></text>
+</svg>

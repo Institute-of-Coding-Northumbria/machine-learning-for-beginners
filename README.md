@@ -1,6 +1,6 @@
 ![Institute of Coding](https://raw.githubusercontent.com/Institute-of-Coding-Northumbria/machine-learning-for-beginners/master/assets/header.png?raw=true)
 
-# Machine Learning for beginners
+# Machine Learning for Beginners
 
 In this repository, you can find introductory level machine learning application notebooks created by the Northumbria University Institute of Coding team. You can download clone this repository to your own computer and open it in your own Jupypter Notebook environment, or you can press the "**Open in Colab**" buttons below to use Google's interactive notebook runtime environment. 
 
